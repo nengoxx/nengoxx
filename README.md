@@ -18,7 +18,7 @@ Automation initiatives
 
 🗯️ **Fun Fact:**  
 I read a lot of manga, ask me about my favorites!
-Currently learning algo trading & AI video gen.
+Currently learning algo trading, AI video gen & prompt engineering for RP.
 
 ---
 
