@@ -1,16 +1,25 @@
-## Hi there 👋
+## About Me
 
-<!--
-**nengoxx/nengoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Profession/Role:**  
+Software Engineer & Electrical Systems Operator
 
-Here are some ideas to get you started:
+🛠️ **Technical Skills:**  
+- Python, JS & more
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Notable Projects:**  
+Automation initiatives
+
+🎨 **Personal Interests:**  
+- Open source  
+- Drawing  
+- Writing  
+- Photography
+
+🗯️ **Fun Fact:**  
+I read a lot of manga, ask me about my favorites!
+Currently learning algo trading & AI video gen.
+
+---
+
+*Professional with a passion. Always learning, always automating!*
